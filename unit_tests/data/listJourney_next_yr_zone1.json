@@ -1,0 +1,107 @@
+[
+  {
+    "dateTime": "Mon, 30 Dec 2024 19:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Mon, 30 Dec 2024 20:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Mon, 30 Dec 2024 08:20:00",
+    "from": "2",
+    "to": "1"
+  },
+  {
+    "dateTime": "Mon, 30 Dec 2024 09:00:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Tue, 31 Dec 2024 10:20:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Tue, 31 Dec 2024 19:00:00",
+    "from": "2",
+    "to": "1"
+  },
+  {
+    "dateTime": "Tue, 31 Dec 2024 19:20:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Tue, 31 Dec 2024 19:51:00",
+    "from": "2",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 01 Jan 2025 08:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 01 Jan 2025 09:00:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Wed, 01 Jan 2025 10:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 01 Jan 2025 19:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Thu, 02 Jan 2025 08:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Thu, 02 Jan 2025 09:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Thu, 02 Jan 2025 10:20:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Thu, 02 Jan 2025 19:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Fri, 03 Jan 2025 08:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Fri, 03 Jan 2025 09:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Fri, 03 Jan 2025 10:20:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Fri, 03 Jan 2025 20:00:00",
+    "from": "2",
+    "to": "1"
+  },
+  {
+    "dateTime": "Sat, 04 Jan 2025 09:00:00",
+    "from": "1",
+    "to": "1"
+  }
+]

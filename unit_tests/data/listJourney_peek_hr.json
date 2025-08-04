@@ -1,0 +1,32 @@
+[
+  {
+    "dateTime": "Tue, 29 Jul 2025 10:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 19:50:00",
+    "from": "2",
+    "to": "2"
+  },
+  {
+    "dateTime": "Thu, 31 Jul 2025 10:33:00",
+    "from": "2",
+    "to": "2"
+  },
+  {
+    "dateTime": "Fri, 01 Aug 2025 10:33:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Sat, 02 Aug 2025 10:59:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Sun, 03 Aug 2025 15:15:00",
+    "from": "1",
+    "to": "1"
+  }
+]

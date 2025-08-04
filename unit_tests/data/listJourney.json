@@ -1,0 +1,62 @@
+[
+  {
+    "dateTime": "Tue, 29 Jul 2025 16:50:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Tue, 29 Jul 2025 18:50:00",
+    "from": "2",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 16:00:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 18:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 16:00:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 18:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 16:00:00",
+    "from": "1",
+    "to": "2"
+  },
+  {
+    "dateTime": "Wed, 30 Jul 2025 18:00:00",
+    "from": "1",
+    "to": "1"
+  },
+  {
+    "dateTime": "Thu, 31 Jul 2025 16:00:00",
+    "from": "2",
+    "to": "2"
+  },
+  {
+    "dateTime": "Thu, 31 Jul 2025 18:00:00",
+    "from": "2",
+    "to": "2"
+  },
+  {
+    "dateTime": "Thu, 31 Jul 2025 19:00:00",
+    "from": "2",
+    "to": "2"
+  },
+  {
+    "dateTime": "Thu, 31 Jul 2025 21:00:00",
+    "from": "2",
+    "to": "2"
+  }
+]
